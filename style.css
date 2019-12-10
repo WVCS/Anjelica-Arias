@@ -10,8 +10,26 @@ h4{
 
 h2{
   text-algin:Center;
-  color: #CDEDFD;
+  color: #FCC7FF;
   font-size: 400%;
+  font-family: Impact;
+}
+h5{
+  text-algin:Center;
+  color: #6E29F7;
+  font-size: 350%;
+  font-family: Impact;
+}
+h6{
+   text-algin:Center;
+  color: #6E29F7;
+  font-size: 350%;
+  font-family: Impact;
+}
+h7{
+   text-algin:Center;
+  color: #6E29F7;
+  font-size: 350%;
   font-family: Impact;
 }
   
