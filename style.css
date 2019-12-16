@@ -1,6 +1,5 @@
-
 body {
-  background-color:#FCC7FF;
+  background-color:#E3C0D3;
 }
 h4{
   text-align: center;
@@ -17,7 +16,7 @@ h6{
 }
 h3{
   text-algin:Center;
-  color: #6E29F7;
+  color: #8884FF;
   font-size: 350%;
   font-family: Impact;
 }
@@ -40,7 +39,9 @@ li.nav {
   float: left;
 }
 
-li.nav {
+
+
+li a {
   display: block;
   color: white;
   text-align: center;
@@ -48,6 +49,6 @@ li.nav {
   text-decoration: none;
 }
 
-li.nav:hover {
-  background-color: #111;
+li a:hover {
+  background-color: #DC6BAD;
 }
