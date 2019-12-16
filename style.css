@@ -1,3 +1,4 @@
+
 body {
   background-color:#FCC7FF;
 }
@@ -27,23 +28,15 @@ h5{
   font-size: 200%;
   font-family: Impact;
 }
-
-body {
-  font-size: 28px;
-}
-
-ul {
+ ul.nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #333;
-  position: -webkit-sticky; /* Safari */
-  position: sticky;
-  top: 0;
 }
 
-li {
+li.nav {
   float: left;
 }
 
@@ -58,22 +51,3 @@ li a {
 li a:hover {
   background-color: #111;
 }
-
-.active {
-  background-color: #4CAF50;
-}
-</style>
-</head>
-<body>
-
-<div class="header">
-  <h2>Scroll Down</h2>
-  <p>Scroll down to see the sticky effect.</p>
-</div>
-
-<ul>
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-</ul>
-
