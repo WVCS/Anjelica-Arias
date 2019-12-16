@@ -40,7 +40,7 @@ li.nav {
   float: left;
 }
 
-li a {
+li.nav {
   display: block;
   color: white;
   text-align: center;
@@ -48,6 +48,6 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+li.nav:hover {
   background-color: #111;
 }
